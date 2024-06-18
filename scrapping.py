@@ -9,7 +9,7 @@ import streamlit as st
 participant_data = [
     {"username": "Jessica S", "link": "https://emtippspiel.srf.ch/users/XgEXx"},
     {"username": "Simon K", "link": "https://emtippspiel.srf.ch/users/0qk2"},
-    {"username": "Sabrina S", "link": "https://emtippspiel.srf.ch/users/XgEXx"},
+    {"username": "Sabrina S", "link": "https://emtippspiel.srf.ch/users/vjP6N"},
     {"username": "Adrian S", "link": "https://emtippspiel.srf.ch/users/3L0gr"},
     {"username": "Fabian Sp", "link": "https://emtippspiel.srf.ch/users/jNzLq"}
 ]
