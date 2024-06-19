@@ -7,11 +7,11 @@ import streamlit as st
 
 # Beispiel-URLs und Benutzernamen der Teilnehmer
 participant_data = [
-    {"username": "Jessica S", "link": "https://emtippspiel.srf.ch/users/XgEXx"},
-    {"username": "Simon K", "link": "https://emtippspiel.srf.ch/users/0qk2"},
-    {"username": "Sabrina S", "link": "https://emtippspiel.srf.ch/users/vjP6N"},
-    {"username": "Adrian S", "link": "https://emtippspiel.srf.ch/users/3L0gr"},
-    {"username": "Fabian Sp", "link": "https://emtippspiel.srf.ch/users/jNzLq"}
+    {"username": "Jessica S", "link": "https://emtippspiel.srf.ch/users/XgEXx/round/2"},
+    {"username": "Simon K", "link": "https://emtippspiel.srf.ch/users/0qk2/round/2"},
+    {"username": "Sabrina S", "link": "https://emtippspiel.srf.ch/users/vjP6N/round/2"},
+    {"username": "Adrian S", "link": "https://emtippspiel.srf.ch/users/3L0gr/round/2"},
+    {"username": "Fabian Sp", "link": "https://emtippspiel.srf.ch/users/jNzLq/round/2"}
 ]
 
 def get_tips_from_participant(url):
